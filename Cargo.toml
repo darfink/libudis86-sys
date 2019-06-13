@@ -9,7 +9,7 @@ keywords = ["x86", "x64", "disassembler", "udis86", "libudis86"]
 license = "MIT"
 name = "libudis86-sys"
 repository = "https://github.com/darfink/libudis86-sys"
-version = "0.2.0"
+version = "0.2.1"
 
 [build-dependencies]
 cc = "1.0.0"
