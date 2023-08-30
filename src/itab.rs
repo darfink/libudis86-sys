@@ -934,6 +934,5 @@ pub enum ud_mnemonic_code {
 }
 
 extern "C" {
-    #[no_mangle]
     pub static mut ud_mnemonics_str: *mut *const libc::c_char;
 }
